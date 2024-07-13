@@ -1,0 +1,42 @@
+The early & accurate identification and timely detection of brain tumors are critical for effective medical intervention and patient.
+
+Traditional diagnostic methods often rely on invasive procedures such as biopsies or expensive imaging techniques, leading to delays in diagnosis and treatment initiation. 
+Machine learning (ML) offers a promising avenue to improve the efficiency and accuracy of brain tumor detection by analyzing medical imaging data.. 
+objectives:
+Develop machine learning algorithms to find brain tumors from brain scans.
+Make sure these algorithms work fast and accurately, so doctors can use them to help patients quickly
+Collects data from MRI and CT images for  tumor model.
+Uses feature extraction techniques like convolutional neural networks for accurate classification.
+  Test & Train the algorithms to make sure they can find different kinds of brain    tumors in different people.
+Continuous modeling and iterations improve accuracy and reliability.
+
+Implementation Results:
+
+
+In this we used CNN  : Sequential Model
+Dataset : Total No. of MRI images = 3060
+	         where image containing brain tumor = 1500
+	         & image doesn’t have = 1500
+	         for the prediction =60
+Gained Accuracy :  97.16 %
+
+Limitations:
+
+
+Data Quality and Quantity
+Generalization
+False Positives and Negatives
+Overfitting and Underfitting
+Clinical Validation
+
+
+Applications:
+
+Early Detection and Diagnosis
+Treatment Planning and Monitoring
+Clinical Decision Support
+Resource Optimization
+Telemedicine and Remote Consultation
+
+
+
